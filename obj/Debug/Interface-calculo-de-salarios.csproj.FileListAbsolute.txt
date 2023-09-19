@@ -1,0 +1,7 @@
+C:\Users\Gustavo Pires\source\repos\Interface-calculo-de-salarios\bin\Debug\Interface-calculo-de-salarios.exe.config
+C:\Users\Gustavo Pires\source\repos\Interface-calculo-de-salarios\bin\Debug\Interface-calculo-de-salarios.exe
+C:\Users\Gustavo Pires\source\repos\Interface-calculo-de-salarios\bin\Debug\Interface-calculo-de-salarios.pdb
+C:\Users\Gustavo Pires\source\repos\Interface-calculo-de-salarios\obj\Debug\Interface-calculo-de-salarios.csproj.AssemblyReference.cache
+C:\Users\Gustavo Pires\source\repos\Interface-calculo-de-salarios\obj\Debug\Interface-calculo-de-salarios.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Pires\source\repos\Interface-calculo-de-salarios\obj\Debug\Interface-calculo-de-salarios.exe
+C:\Users\Gustavo Pires\source\repos\Interface-calculo-de-salarios\obj\Debug\Interface-calculo-de-salarios.pdb
