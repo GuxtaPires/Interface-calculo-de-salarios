@@ -5,7 +5,7 @@ Ele usa classificações específicas do exercício para o cálculo de impostos,
 
 ## Feedback
 
-Me mande sua opinião sobre este jogo neste meio:
+Me mande sua opinião sobre este sistema neste meio:
 
 - [Linkedin](https://www.linkedin.com/in/gustavodasilvapires/)
 
